@@ -25,5 +25,4 @@ func main() {
 	}
 
 	fmt.Printf("Zero crossings: %d\n", zeroCrossings)
-	// ans: 997
 }
